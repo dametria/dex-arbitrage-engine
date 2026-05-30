@@ -1,0 +1,51 @@
+{
+  "USDC-WETH": [
+    {
+      "dexId": "uniswap",
+      "pool": "0xC6962004f452bE9203591991D15f6b388e09E8D0",
+      "fee": 500,
+      "token0": {
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      "token1": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "symbol": "WETH",
+        "decimals": 18
+      }
+    },
+    {
+      "dexId": "pancakeswap",
+      "pool": "0x7fCDC35463E3770c2fB992716Cd070B63540b947",
+      "fee": 500,
+      "token0": {
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      "token1": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "symbol": "WETH",
+        "decimals": 18
+      }
+    }
+  ],
+  "WETH-ARB": [
+    {
+      "dexId": "uniswap",
+      "pool": "0xC6F780497A95e246EB9449f5e4770916DCd6396A",
+      "fee": 500,
+      "token0": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      "token1": {
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "symbol": "ARB",
+        "decimals": 18
+      }
+    }
+  ]
+}

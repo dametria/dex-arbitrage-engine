@@ -1,0 +1,13 @@
+{
+  "uniswap": [
+    "0x641c00a822e8b671738d32a431a4fb6074e5c79d",
+    "0xc6962004f452be9203591991d15f6b388e09e8d0",
+    "0xc6f780497a95e246eb9449f5e4770916dcd6396a"
+  ],
+  "sushiswap": [
+    "0xc31e54c7a869b9fcbecc14363cf510d1c41fa443"
+  ],
+  "pancakeswap": [
+    "0xaa89ba37d1975ae294974ebb33db9d4b5324f2f2"
+  ]
+}

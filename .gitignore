@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.Python
+*.so
+
+# User data (do not push real values)
+.env
+src/pools/all_pools.json
+src/pools/pools_dexscreener.json
+src/pools/tokens.json
+all_pools.json
+pools_dexscreener.json
+tokens.json
+
+# Logs
+logs/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.gigaide/
+*.iml
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
